@@ -25,7 +25,7 @@
             width: 85%;
         } 
         .top-banner{
-            background-image: url("top-banner.png");
+            background-image: url("./images/top-banner.png");
             background-repeat: no-repeat;
         }
         section{
@@ -41,7 +41,7 @@
             font-weight: 700px;
         } 
         .dream-area{
-            background-image: url("dream-bg.png");
+            background-image: url("./images/dream-bg.png");
             background-repeat: no-repeat;
             background-position:right;
         }
@@ -52,7 +52,7 @@
             background-color: white;
         } 
         .experience-area{
-        background-image: url("exp-bg.png");
+        background-image: url("./images/exp-bg.png");
         background-repeat: no-repeat;
         background-position: left;
         overflow: hidden;
