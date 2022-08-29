@@ -2,6 +2,7 @@
         body{
             margin: 0px;
             font-family: 'Poppins', sans-serif;
+            background-color: rgb(190, 226, 190);
         }
         h1{
             font-size: 40px;
@@ -22,7 +23,7 @@
             padding-left: 3%;
         }
         .half-width img{
-            width: 85%;
+            width: 100%;
         } 
         .top-banner{
             background-image: url("./images/top-banner.png");
@@ -30,7 +31,7 @@
         }
         section{
             height: 450;
-            padding-bottom: 100px;
+            padding-bottom: 120px;
         }
         .link-button{
             text-decoration: none;
@@ -70,5 +71,6 @@
         }
         footer p{
             text-align: center;
+            font-size: 10px;
         }
         
