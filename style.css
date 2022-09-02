@@ -52,11 +52,11 @@
             height: 80%;
             background-color: white;
         } 
-        .experience-area{
-        background-image: url("./images/exp-bg.png");
-        background-repeat: no-repeat;
-        background-position: left;
-        overflow: hidden;
+            .experience-area{
+            background-image: url("./images/exp-bg.png");
+            background-repeat: no-repeat;
+            background-position: left;
+            overflow: hidden;
         }
         #full-stack{
             border-left:7px solid;
